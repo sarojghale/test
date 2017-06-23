@@ -1,8 +1,9 @@
-This is test RainBow Trial 3!
+This is test RainBow and trial 2 and trial 3!
 This is edited.
 Again edited
 exprimental data1
 This is comit from Master!
+This is my master after trail3
 Trial 2 added
 Master update after trail2
 
